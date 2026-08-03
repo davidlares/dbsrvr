@@ -141,7 +141,7 @@
                 <Platform value="Win64">False</Platform>
                 <Platform value="WinARM64EC">False</Platform>
             </Platforms>
-            <Deployment> </Deployment>
+            <Deployment Version="5"/>
         </BorlandProject>
         <ProjectFileVersion>12</ProjectFileVersion>
     </ProjectExtensions>
