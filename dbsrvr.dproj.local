@@ -1,2 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject/>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026/08/03 18:27:48.114,C:\Program Files (x86)\DBISAM 4 ODBC-TRIAL\servers\dbsrvr\win32\recompiled\dbsrvr.dproj=C:\Program Files (x86)\DBISAM 4 ODBC-TRIAL\servers\dbsrvr\win32\recompiled\dbsrvr.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
