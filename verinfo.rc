@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 4, 51, 0, 1
+PRODUCTVERSION 4, 51, 0, 1
+FILEOS 4
+FILETYPE 1
+{
+	BLOCK "StringFileInfo"
+	{
+		BLOCK "040904E4"
+		{
+			VALUE "CompanyName", "Elevate Software\000"
+			VALUE "FileDescription", "DBISAM Database Server\000"
+			VALUE "FileVersion", "4.51 Build 1\000"
+			VALUE "InternalName", "dbsrvr\000"
+			VALUE "LegalCopyright", "Copyright © 2023 Elevate Software, Inc.\000"
+			VALUE "OriginalFileName", "dbsrvr.exe\000"
+			VALUE "ProductName", "DBISAM Database Server\000"
+			VALUE "ProductVersion", "4.51\000"
+			VALUE "Comments", "\000"
+		}
+	}
+	BLOCK "VarFileInfo"
+	{
+		VALUE "Translation", 0x409, 1252
+	}
+}
+1 24 "dbsrvr.manifest"
