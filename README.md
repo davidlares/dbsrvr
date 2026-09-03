@@ -1,4 +1,4 @@
-## DBISAM Connector (Dekomundo-connector)
+## DBISAM dbsrvr.exe
 
 A recompiled DBISAM `dbsrvr.exe` program w/ the TDBISAMDatabase 'Trigger' (listener) implementation 
 capabilities for listening to A2-Softway DBISAM-based tables (tuples) and a simple JSON parser
@@ -6,9 +6,9 @@ capabilities for listening to A2-Softway DBISAM-based tables (tuples) and a simp
 ## Repository GitHub deploy key location 
 
 File path: `C:\Users\Administrador\.ssh`
-Public key: `id_deko_server.pub`
+Public key: `id_server.pub`
 
-Command used: `ssh-keygen -t ed25519 -f id_deko_server`
+Command used: `ssh-keygen -t ed25519 -f id_server`
 
 ## Rad Studio project settings
 
